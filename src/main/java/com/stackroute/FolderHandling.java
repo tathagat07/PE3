@@ -23,4 +23,7 @@ public class FolderHandling {
         }
     }
 
+    public String readFile() {
+        return null;
+    }
 }

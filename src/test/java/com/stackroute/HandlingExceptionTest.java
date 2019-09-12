@@ -26,7 +26,7 @@ public class HandlingExceptionTest {
     public void NegativeArraySize() throws NegativeArraySizeException{
         List<Object> list = new ArrayList<Object>();
 
-        List.get(0);
+
 
     }
     @Test

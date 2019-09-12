@@ -17,7 +17,7 @@ public class FolderHandlingTest {
     }
     @Test
     public void testFolder(){
-        assertEquals("reading file successfully" ,"guessNumber.class \n test.txt \n hjgdfgf daGGDQU wdhd oi ad a \n Employee.java \n buffer.java \n","");
+        assertEquals("reading file successfully" ,"guessNumber.class \n test.txt \n hjgdfgf daGGDQU wdhd oi ad a \n Employee.java \n buffer.java \n check.class",folderHandling.readFile());
     }
 
 
